@@ -1,5 +1,5 @@
 from unittest import TestCase
-from post import post
+from blog import post
 
 class Post_Test(TestCase):
     #have to write test in first then add other things in construction
